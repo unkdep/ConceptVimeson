@@ -1,4 +1,4 @@
-🪑🌿 ConceptVimeson 🪑🌿
+🪑🌿 Concept Vimes 🪑🌿
 
 ConceptVimeson é uma loja virtual especializada na venda de móveis artesanais em vime. Com um design elegante e responsivo, a plataforma oferece uma experiência intuitiva para quem busca sofisticação, conforto e estilo natural na decoração de interiores e exteriores.
 
