@@ -50,3 +50,4 @@ Observação: O projeto é estático e não requer instalação ou servidor loca
 📄 Licença 📄
 
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
