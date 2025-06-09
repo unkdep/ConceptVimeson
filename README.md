@@ -51,4 +51,7 @@ Observação: O projeto é estático e não requer instalação ou servidor loca
 
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
-![Preview do site ConceptVimeson](screenshot.png)
+
+
+![Preview do site ConceptVimeson](img/screenshot.png)
+
